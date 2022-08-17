@@ -13,12 +13,20 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a software developer with almost 2 years of industry experience. In May 2020, I graduated with a Bachelor's degree in Computer Science and Engineering from The Ohio State University. I currently work remotely as an application developer at Global Impact. Global Impact works on charitable ventures to inspire greater giving. 
-                    It's been such a great experience working at a company with such an important mission. 
-                    I have always been a very creative person so I love having the opportunity to solve unique problems on a daily basis whether it's implementing a new feature, manipulating data in the database, designing the appearance of a web application, or diagnosing and fixing bugs quickly and effectively. 
-                    My favorite thing about software development is learning new things on a daily basis and being able to express my creativity!</p>
-                    <p>A few things about me, that you wouldn't learn from my resume, is that I have a Goldendoodle named Oscar, I was recently engaged in May 2021, and I became an aunt in December 2020! I also moved away from my home in Ohio to Baton Rouge, LA, in May of 2020.
-                    There has been a lot of exciting life events recently and I am so grateful for all of the amazing opportunities and people in my life. </p>
+                    <p>I'm currently a Software Engineer at Red Hat on the Insights Compliance team. My daily tasks include implementing new features, fixing bugs in a timely manner,
+                    analyzing metrics, writing tests, coordinating with other teams on projects,
+                    and working with Product/Project Managers, UX Designers, Technical Writers and more to ensure the success of the service.
+                    I have a passion for expressing my creativity through writing high-quality code and contributing to open-source software communities.
+                    </p>
+                    <p> I am a strong advocate for Diversity and Inclusion in the workplace. Diversity and Inclusion in the workplace not only benefits
+                    the employees by creating a sense of belonging but it benefits the business as well. Diverse workplaces have been shown to increase productivity,
+                    improve innovation and creativity, and give the company a better understanding of the customers needs.
+                    </p>
+                    <p> Although supporting people of diverse groups that are already in the tech field is extremely important, 
+                    I believe that it's equally as important to encourage more people from these groups to join the tech field. 
+                    Being a woman in the tech industry, I know that it can be intimidating not seeing much diversity at all. You feel like you stand out and don't belong. 
+                    This feeling can lead to self-doubt and possibly stray people of diverse groups away from this field. Wherever my career takes me, I'd like to do all 
+                    that I can to help support these diverse communities and bring more Diversity and Inclusion to the tech industry. </p>
                     </div>
                 </div>
                 </div>
