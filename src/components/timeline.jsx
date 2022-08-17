@@ -54,8 +54,25 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Jr. Application Developer at Global Impact <span>Jan 2020 - present</span></h2>
-                        <p>I started working at Global Impact as a Jr. Application Developer, in January 2020. It was challenging, beginning my career in software development, during my last semester of college and a pandemic but this allowed me to grow my skills by learning to priotize my workload while still completing quality work and meeting all of my deadlines.</p> 
+                        <h2>Jr. Application Developer at Global Impact <span>Jan 2020 - August 2021</span></h2>
+                        <p>I worked as a Full Stack Developer at Global Impact which gave me a proficient understanding of front-end development, back-end development, and databases. 
+                        I also worked closely with clients and stakeholders, allocated work requests from clients to my team members, wrote tests, 
+                        reviewed error logs on a daily basis, deployed releases, and managed AWS S3 directories. 
+                        </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Jr. Application Developer at Global Impact <span>Jan 2020 - August 2021</span></h2>
+                        <p>I worked as a Full Stack Developer at Global Impact which gave me a proficient understanding of front-end development, back-end development, and databases. 
+                        I also worked closely with clients and stakeholders, allocated work requests from clients to my team members, wrote tests, 
+                        reviewed error logs on a daily basis, deployed releases, and managed AWS S3 directories. 
+                        </p> 
                       </div>
                     </div>
                   </article>
