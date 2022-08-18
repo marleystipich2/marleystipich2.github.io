@@ -21,8 +21,36 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>IT Systems Engineer Internship at Progressive Insurance <span>May 2018 - Aug 2018</span></h2>
-                        <p>During my internship at Progressive, I worked on the End User Computing team where I troubleshooted software and hardware issues for customers, remotely. I also worked on the Network and Telecommunications team where I gained experience with network and telecommunications hardware and maintaining complex operating systems. Lastly, I lead a summer long project that aimed to improve recruiting technology used by Progressive career fairs that my team and I presented in front of IT executives. </p>
+                        <h2>Software Engineer at Red Hat <span>Sept 2021 - present</span></h2>
+                        <p>I currently work as a Software Engineer at Red Hat on the Insights Compliance team. My daily tasks include 
+                        implementing new features, fixing bugs in a timely manner, analyzing metrics, writing tests, coordinating with
+                         other teams, and working with Product/Project Managers, UX Designers, Technical Writers and more to ensure the success of a project.
+                        </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Jr. Application Developer at Global Impact <span>Jan 2020 - August 2021</span></h2>
+                        <p>I worked as a Full Stack Developer at Global Impact which gave me a proficient understanding of front-end development, back-end development, and databases. 
+                        I also worked closely with clients and stakeholders, allocated work requests from clients to my team members, wrote tests, 
+                        reviewed error logs on a daily basis, deployed releases, and managed AWS S3 directories. 
+                        </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Graduated from The Ohio State University - B.S, Computer Science and Engineering <span>Aug 2016 - May 2020</span></h2>
+                        <p>In May 2020, I graduated from The Ohio State University with a degree in Computer Science and Enginering. I am so grateful to have recieved such a great education from the #1 undergrad engneering program in Ohio and #15 among public universities nationwide.</p> 
                       </div>
                     </div>
                   </article>
@@ -39,40 +67,12 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
+                      <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Graduated from The Ohio State University - B.S, Computer Science and Engineering <span>Aug 2016 - May 2020</span></h2>
-                        <p>In May 2020, I graduated from The Ohio State University with a degree in Computer Science and Enginering. I am so grateful to have recieved such a great education from the #1 undergrad engneering program in Ohio and #15 among public universities nationwide.</p> 
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-6">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Jr. Application Developer at Global Impact <span>Jan 2020 - August 2021</span></h2>
-                        <p>I worked as a Full Stack Developer at Global Impact which gave me a proficient understanding of front-end development, back-end development, and databases. 
-                        I also worked closely with clients and stakeholders, allocated work requests from clients to my team members, wrote tests, 
-                        reviewed error logs on a daily basis, deployed releases, and managed AWS S3 directories. 
-                        </p> 
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-6">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Jr. Application Developer at Global Impact <span>Jan 2020 - August 2021</span></h2>
-                        <p>I worked as a Full Stack Developer at Global Impact which gave me a proficient understanding of front-end development, back-end development, and databases. 
-                        I also worked closely with clients and stakeholders, allocated work requests from clients to my team members, wrote tests, 
-                        reviewed error logs on a daily basis, deployed releases, and managed AWS S3 directories. 
-                        </p> 
+                        <h2>IT Systems Engineer Internship at Progressive Insurance <span>May 2018 - Aug 2018</span></h2>
+                        <p>During my internship at Progressive, I worked on the End User Computing team where I troubleshooted software and hardware issues for customers, remotely. I also worked on the Network and Telecommunications team where I gained experience with network and telecommunications hardware and maintaining complex operating systems. Lastly, I lead a summer long project that aimed to improve recruiting technology used by Progressive career fairs that my team and I presented in front of IT executives. </p>
                       </div>
                     </div>
                   </article>
