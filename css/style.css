@@ -34,13 +34,13 @@ a {
 p {
   margin-bottom: 1.5em; }
 
-h1, h3, h4, h5, h6 {
+h4, h5, h6 {
   color: #fff;
   font-family: "Playfair Display", Georgia, serif;
   font-weight: 400;
   margin: 0 0 30px 0; }
 
-h2 {
+h1, h2, h3 {
   color: #000;
   font-family: "Playfair Display", Georgia, serif;
   font-weight: 400;
@@ -301,7 +301,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: white;
+          color: black;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -447,7 +447,7 @@ body.offcanvas {
 
 .hire {
   padding: 2em;
-  background: #f9bf3f; }
+  background: #91ad8c; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
@@ -569,11 +569,11 @@ body.offcanvas {
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
     background: #ec5453; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #f9bf3f; }
+    background: #91ad8c; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
-    background: #a84cb8; }
+    background: #bf8052; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
-    background: #2fa499; }
+    background: #e0d5b1; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
@@ -645,17 +645,17 @@ body.offcanvas {
     .services.color-2 .icon2 i {
       color: #ec5453; }
   .services.color-3 {
-    border-bottom: 2px solid #f9bf3f; }
+    border-bottom: 2px solid #91ad8c; }
     .services.color-3 .icon2 i {
-      color: #f9bf3f; }
+      color: #91ad8c; }
   .services.color-4 {
-    border-bottom: 2px solid #a84cb8; }
+    border-bottom: 2px solid #bf8052; }
     .services.color-4 .icon2 i {
-      color: #a84cb8; }
+      color: #bf8052; }
   .services.color-5 {
-    border-bottom: 2px solid #2fa499; }
+    border-bottom: 2px solid #e0d5b1; }
   .services.color-6 {
-    border-bottom: 2px solid #4054b2; }
+    border-bottom: 2px solid #d1c59f; }
 
 .services {
   margin-bottom: 80px;
@@ -712,29 +712,29 @@ body.offcanvas {
     .services.color-2 .icon:after {
       border-color: #ec5453 transparent transparent transparent; }
   .services.color-3 .icon {
-    background: #f9bf3f; }
+    background: #91ad8c; }
     .services.color-3 .icon:before {
-      border-color: transparent transparent #f9bf3f transparent; }
+      border-color: transparent transparent #91ad8c transparent; }
     .services.color-3 .icon:after {
-      border-color: #f9bf3f transparent transparent transparent; }
+      border-color: #91ad8c transparent transparent transparent; }
   .services.color-4 .icon {
-    background: #a84cb8; }
+    background: #bf8052; }
     .services.color-4 .icon:before {
-      border-color: transparent transparent #a84cb8 transparent; }
+      border-color: transparent transparent #bf8052 transparent; }
     .services.color-4 .icon:after {
-      border-color: #a84cb8 transparent transparent transparent; }
+      border-color: #bf8052 transparent transparent transparent; }
   .services.color-5 .icon {
-    background: #2fa499; }
+    background: #e0d5b1; }
     .services.color-5 .icon:before {
-      border-color: transparent transparent #2fa499 transparent; }
+      border-color: transparent transparent #e0d5b1 transparent; }
     .services.color-5 .icon:after {
-      border-color: #2fa499 transparent transparent transparent; }
+      border-color: #e0d5b1 transparent transparent transparent; }
   .services.color-6 .icon {
-    background: #4054b2; }
+    background: #d1c59f; }
     .services.color-6 .icon:before {
-      border-color: transparent transparent #4054b2 transparent; }
+      border-color: transparent transparent #d1c59f transparent; }
     .services.color-6 .icon:after {
-      border-color: #4054b2 transparent transparent transparent; }
+      border-color: #d1c59f transparent transparent transparent; }
 
 .progress-wrap h3 {
   font-size: 16px;
@@ -792,29 +792,29 @@ body.offcanvas {
     .progress-bar.color-2 span {
       color: #ec5453; }
   .progress-bar.color-3 {
-    background: #f9bf3f; }
+    background: #91ad8c; }
     .progress-bar.color-3:after {
-      background: #f9bf3f; }
+      background: #91ad8c; }
     .progress-bar.color-3 span {
-      color: #f9bf3f; }
+      color: #91ad8c; }
   .progress-bar.color-4 {
-    background: #a84cb8; }
+    background: #bf8052; }
     .progress-bar.color-4:after {
-      background: #a84cb8; }
+      background: #bf8052; }
     .progress-bar.color-4 span {
-      color: #a84cb8; }
+      color: #bf8052; }
   .progress-bar.color-5 {
-    background: #2fa499; }
+    background: #e0d5b1; }
     .progress-bar.color-5:after {
-      background: #2fa499; }
+      background: #e0d5b1; }
     .progress-bar.color-5 span {
-      color: #2fa499; }
+      color: #e0d5b1; }
   .progress-bar.color-6 {
-    background: #4054b2; }
+    background: #d1c59f; }
     .progress-bar.color-6:after {
-      background: #4054b2; }
+      background: #d1c59f; }
     .progress-bar.color-6 span {
-      color: #4054b2; }
+      color: #d1c59f; }
 
 .colorlib-feature {
   text-align: left;
@@ -998,7 +998,7 @@ body.offcanvas {
     .project .desc span {
       display: block;
       color: rgba(255, 255, 255, 0.7);
-      font-size: 13px;
+      font-size: 15px;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
       -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
       transition: opacity 0.3s, -webkit-transform 0.3s;
